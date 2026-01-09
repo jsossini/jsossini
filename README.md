@@ -1,7 +1,7 @@
 💫 Sobre mi
 ---
 
-`Task.Run(() => Console.WriteLine("Hola"));`
+# `Task.Run(() => Console.WriteLine("Hola"));`
 
 Ingeniero de Sistemas · Backend & Automatización  
 📍 Huacho, Lima – Perú  
