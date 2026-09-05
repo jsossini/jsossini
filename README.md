@@ -1,6 +1,6 @@
 # Juan Diego Alejandro Sosa Atuncar
 ### Bach. Ingeniería de Sistemas | Infraestructura, Servicios de TI y Transformación Digital
-📍 Lima / Huacho, Perú · [LinkedIn](https://linkedin.com/in/[usuario]) · [Credenciales Verificadas](https://jsossini.github.io)
+📍 Lima / Huacho, Perú
 
 ---
 
